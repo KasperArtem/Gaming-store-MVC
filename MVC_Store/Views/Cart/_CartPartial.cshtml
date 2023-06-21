@@ -1,0 +1,9 @@
+﻿@model MVC_Store.Models.ViewModels.Cart.CartVM
+
+<div class="ajaxcart" style="color:white">
+    Ваш кошик: @Model.Quantity товар(ів) - @Model.Price ₴
+    <br />
+    <div class="btn-danger col-sm-5 border-info">
+        @Html.ActionLink("Кошик", "Index")
+    </div>
+</div>

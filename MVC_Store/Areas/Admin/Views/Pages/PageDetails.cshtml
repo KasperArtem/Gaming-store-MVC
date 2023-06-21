@@ -1,0 +1,43 @@
+﻿@model MVC_Store.Models.ViewModels.Pages.PageVM
+
+@{
+    ViewBag.Title = "Деталі сторінки";
+}
+
+<h2>Деталі сторінки</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Slug)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Slug)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Body)
+        </dt>
+
+        <dd>
+            @Html.Raw(Model.Body)
+        </dd>
+
+       
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Змінити", "EditPage", new { id = Model.Id }) |
+    @Html.ActionLink("Повернутись", "Index")
+</p>

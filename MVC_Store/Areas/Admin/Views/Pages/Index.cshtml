@@ -1,0 +1,75 @@
+﻿@model IEnumerable<MVC_Store.Models.ViewModels.Pages.PageVM>
+
+@{
+    ViewBag.Title = "Сторінки";
+}
+
+<h2>Сторінки</h2>
+
+@if (TempData["SM"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SM"]
+    </div>
+}
+
+<p>
+    @Html.ActionLink("Створити нову сторінку", "AddPage", "", new { @class = "btn btn-success" })
+</p>
+
+<!--Урок 5-->
+<table class="table sorting" id="pages">
+    <tr class="home">
+        <th>
+            Назва
+        </th>
+        <th>
+            Ідентифікаційна назва
+        </th>
+
+        <th>
+            Бокова панель
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <!--Урок 5-->
+        <tr id="id_@item.Id" class="@item.Slug">
+            <td>
+                @if (item.Slug != "home")
+                {
+                    <span class="ui-icon ui-icon-arrowthick-2-n-s"></span>
+                }
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Slug)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.HasSidebar)
+            </td>
+            <td>
+                @Html.ActionLink("Змінити", "EditPage", new { id = item.Id }) |
+                @Html.ActionLink("Детальніше", "PageDetails", new { id = item.Id })
+
+                <!--Урок 5-->
+                @if (item.Slug != "home")
+                {
+                    string slash = "| ";
+                    @slash;
+                    @Html.ActionLink("Видалити", "DeletePage", new { id = item.Id }, new { @class = "delete" })
+                }
+
+            </td>
+        </tr>
+    }
+
+</table>
+<!--Урок 5-->
+@section Scripts
+{
+    <script src="~/Content/ShopJS/PagesIndexViewJS.js"></script>
+}

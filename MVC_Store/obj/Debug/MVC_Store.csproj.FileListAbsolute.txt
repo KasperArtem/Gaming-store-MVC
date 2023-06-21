@@ -1,0 +1,300 @@
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\MVC_Store.dll.config
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\MVC_Store.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\MVC_Store.pdb
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\csc.exe
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\csc.exe.config
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\csc.rsp
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\csi.exe
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\csi.exe.config
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\csi.rsp
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CSharp.Core.targets
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.Managed.Core.targets
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.Win32.Primitives.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.AppContext.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Collections.Immutable.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Console.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Diagnostics.StackTrace.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Globalization.Calendars.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.IO.Compression.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.IO.Compression.ZipFile.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.IO.FileSystem.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Net.Http.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Net.Sockets.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Reflection.Metadata.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Security.Cryptography.Encoding.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Security.Cryptography.Primitives.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Threading.Tasks.Extensions.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.ValueTuple.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Xml.ReaderWriter.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Xml.XmlDocument.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Xml.XPath.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Xml.XPath.XDocument.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\vbc.exe
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\vbc.exe.config
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\vbc.rsp
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\VBCSCompiler.exe
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\VBCSCompiler.exe.config
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\Antlr3.Runtime.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\Microsoft.Web.Infrastructure.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\Newtonsoft.Json.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Diagnostics.DiagnosticSource.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.Helpers.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.Mvc.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.Optimization.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.Razor.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.WebPages.Deployment.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.WebPages.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.WebPages.Razor.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\WebGrease.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\Newtonsoft.Json.xml
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Diagnostics.DiagnosticSource.xml
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.Helpers.xml
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.Mvc.xml
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.Razor.xml
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.WebPages.xml
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.WebPages.Deployment.xml
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.WebPages.Razor.xml
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.Optimization.xml
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\Antlr3.Runtime.pdb
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\ru\System.Web.Helpers.resources.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\ru\System.Web.Mvc.resources.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\ru\System.Web.Razor.resources.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.resources.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.Deployment.resources.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.Razor.resources.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\ru\System.Web.Optimization.resources.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csproj.CoreCompileInputs.cache
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csproj.CopyComplete
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\obj\Debug\MVC_Store.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\obj\Debug\MVC_Store.pdb
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\EntityFramework.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\EntityFramework.SqlServer.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\EntityFramework.xml
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\EntityFramework.SqlServer.xml
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\Newtonsoft.Json.pdb
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\PagedList.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\PagedList.Mvc.dll
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\PagedList.xml
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\PagedList.Mvc.xml
+g:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csprojAssemblyReference.cache
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\MVC_Store.dll.config
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\MVC_Store.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\MVC_Store.pdb
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\csc.exe
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\csc.exe.config
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\csc.rsp
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\csi.exe
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\csi.exe.config
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\csi.rsp
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.AppContext.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Collections.Immutable.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Console.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Globalization.Calendars.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.IO.Compression.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.IO.FileSystem.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Net.Http.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Net.Sockets.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Reflection.Metadata.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.ValueTuple.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Xml.XPath.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\vbc.exe
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\vbc.exe.config
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\vbc.rsp
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\VBCSCompiler.exe
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\roslyn\VBCSCompiler.exe.config
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\Antlr3.Runtime.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\EntityFramework.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\EntityFramework.SqlServer.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\Microsoft.Web.Infrastructure.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\Newtonsoft.Json.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\PagedList.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\PagedList.Mvc.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.Helpers.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.Mvc.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.Optimization.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.Razor.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.WebPages.Deployment.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.WebPages.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.WebPages.Razor.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\WebGrease.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\EntityFramework.xml
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\EntityFramework.SqlServer.xml
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\Newtonsoft.Json.pdb
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\Newtonsoft.Json.xml
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\PagedList.xml
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\PagedList.Mvc.xml
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.Helpers.xml
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.Mvc.xml
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.Razor.xml
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.WebPages.xml
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.WebPages.Deployment.xml
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.WebPages.Razor.xml
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\System.Web.Optimization.xml
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\Antlr3.Runtime.pdb
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\ru\System.Web.Helpers.resources.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\ru\System.Web.Mvc.resources.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\ru\System.Web.Razor.resources.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.resources.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\ru\System.Web.Optimization.resources.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csprojAssemblyReference.cache
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\obj\Debug\MVC_Store.csproj.CopyComplete
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\obj\Debug\MVC_Store.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\obj\Debug\MVC_Store.pdb
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Documents\Visual Studio 2017\Projects\MVC_Store\MVC_Store\bin\Microsoft.AspNet.Identity.Core.xml
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\MVC_Store.dll.config
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\MVC_Store.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\MVC_Store.pdb
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\csc.exe
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\csc.exe.config
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\csc.rsp
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\csi.exe
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\csi.exe.config
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\csi.rsp
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\Microsoft.Managed.Core.targets
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.AppContext.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.Collections.Immutable.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.Console.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.Globalization.Calendars.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.IO.Compression.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.IO.FileSystem.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.Net.Http.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.Net.Sockets.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.Reflection.Metadata.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.ValueTuple.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.Xml.XmlDocument.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.Xml.XPath.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\vbc.exe
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\vbc.exe.config
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\vbc.rsp
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\VBCSCompiler.exe
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\roslyn\VBCSCompiler.exe.config
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\Antlr3.Runtime.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\EntityFramework.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\EntityFramework.SqlServer.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\Microsoft.AspNet.Identity.Core.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\Microsoft.Web.Infrastructure.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\Newtonsoft.Json.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\PagedList.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\PagedList.Mvc.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\System.Diagnostics.DiagnosticSource.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\System.Web.Helpers.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\System.Web.Mvc.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\System.Web.Optimization.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\System.Web.Razor.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\System.Web.WebPages.Deployment.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\System.Web.WebPages.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\System.Web.WebPages.Razor.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\WebGrease.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\EntityFramework.xml
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\EntityFramework.SqlServer.xml
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\Microsoft.AspNet.Identity.Core.xml
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\Newtonsoft.Json.pdb
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\Newtonsoft.Json.xml
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\PagedList.xml
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\PagedList.Mvc.xml
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\System.Diagnostics.DiagnosticSource.xml
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\System.Web.Helpers.xml
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\System.Web.Mvc.xml
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\System.Web.Razor.xml
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\System.Web.WebPages.xml
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\System.Web.WebPages.Deployment.xml
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\System.Web.WebPages.Razor.xml
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\System.Web.Optimization.xml
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\Antlr3.Runtime.pdb
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\ru\System.Web.Helpers.resources.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\ru\System.Web.Mvc.resources.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\ru\System.Web.Razor.resources.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\ru\System.Web.WebPages.resources.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\bin\ru\System.Web.Optimization.resources.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\obj\Debug\MVC_Store.csproj.CoreCompileInputs.cache
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\obj\Debug\MVC_Store.csproj.CopyComplete
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\obj\Debug\MVC_Store.dll
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\obj\Debug\MVC_Store.pdb
+F:\інститут\3 курс\1 семестр\Програмування інтернет\Курсова робота\MVC_Store\obj\Debug\MVC_Store.csproj.AssemblyReference.cache
